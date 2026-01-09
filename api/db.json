@@ -1,0 +1,144 @@
+{
+  "carousel": [
+    {
+      "id": 1,
+      "banner": "http://localhost:3000/carousel/slide1.jpg"
+    },
+    {
+      "id": 2,
+      "banner": "http://localhost:3000/carousel/slide2.jpg"
+    },
+    {
+      "id": 3,
+      "banner": "http://localhost:3000/carousel/slide3.jpg"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "banner": "http://localhost:3000/carousel/slide1.jpg"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "banner": "http://localhost:3000/serv/aniversario.jpg",
+      "title": "Aniversários",
+      "description": "Celebramos aniversários com um ambiente especial, cardápio personalizado e atendimento dedicado. Cada detalhe é pensado para transformar a comemoração em um momento único, garantindo conforto, sabor e boas memórias para todos os convidados."
+    },
+    {
+      "id": 2,
+      "banner": "http://localhost:3000/serv/casamento.jpg",
+      "title": "Recepção para casamentos",
+      "description": "Oferecemos uma recepção elegante e acolhedora para casamentos, com estrutura completa, gastronomia refinada e serviço atencioso. Nosso espaço é ideal para celebrar esse dia tão importante com charme, cuidado e tranquilidade."
+    },
+    {
+      "id": 3,
+      "banner": "http://localhost:3000/serv/confraternizacoes.jpg",
+      "title": "Confraternizações",
+      "description": "O espaço é perfeito para confraternizações corporativas ou entre amigos, reunindo conforto, boa comida e um clima agradável. Criamos experiências sob medida para tornar cada encontro mais leve, organizado e memorável."
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "title": "Entradas",
+      "products": [
+        {
+          "id": 1,
+          "image": "http://localhost:3000/menu/appetizer/entrada.jpg",
+          "title": "Salada",
+          "description": "Entrada leve preparada com ingredientes frescos, ideal para abrir o apetite.",
+          "price": 24.90
+        },
+        {
+          "id": 2,
+          "image": "http://localhost:3000/menu/appetizer/entrada.jpg",
+          "title": "Tabule",
+          "description": "Porção saborosa com temperos equilibrados, perfeita para compartilhar.",
+          "price": 29.90
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Pratos principais",
+      "products": [
+        {
+          "id": 1,
+          "image": "http://localhost:3000/menu/main_course/pizza.jpg",
+          "title": "Pizza",
+          "description": "Pizza artesanal com massa crocante, molho especial e ingredientes selecionados.",
+          "price": 54.90
+        },
+        {
+          "id": 2,
+          "image": "http://localhost:3000/menu/main_course/salmao.jpg",
+          "title": "Prato 2",
+          "description": "Salmão grelhado no ponto ideal, acompanhado de guarnições da casa.",
+          "price": 69.90
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sobremesas",
+      "products": [
+        {
+          "id": 1,
+          "image": "http://localhost:3000/menu/dessert/bolo.jpg",
+          "title": "Bolo de chocolate",
+          "description": "Bolo macio de chocolate com cobertura cremosa e sabor intenso.",
+          "price": 18.90
+        },
+        {
+          "id": 2,
+          "image": "http://localhost:3000/menu/dessert/cupcake.jpg",
+          "title": "Cupcake",
+          "description": "Cupcake artesanal com massa leve e recheio suave.",
+          "price": 14.90
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Bebidas não alcoólicas",
+      "products": [
+        {
+          "id": 1,
+          "image": "http://localhost:3000/menu/drinks/alcohol_free/coca-cola.jpg",
+          "title": "Coca-Cola",
+          "description": "Refrigerante gelado, ideal para acompanhar qualquer refeição.",
+          "price": 7.90
+        },
+        {
+          "id": 2,
+          "image": "http://localhost:3000/menu/drinks/alcohol_free/suco.jpg",
+          "title": "Suco de Laranja",
+          "description": "Suco natural de laranja, fresco e preparado na hora.",
+          "price": 9.90
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Bebidas alcoólicas",
+      "products": [
+        {
+          "id": 1,
+          "image": "http://localhost:3000/menu/drinks/alcoholic/cerveja.jpg",
+          "title": "Cerveja",
+          "description": "Cerveja bem gelada, refrescante e perfeita para qualquer ocasião.",
+          "price": 11.90
+        },
+        {
+          "id": 2,
+          "image": "http://localhost:3000/menu/drinks/alcoholic/vinho.jpg",
+          "title": "Vinho",
+          "description": "Vinho selecionado com aroma equilibrado e sabor marcante.",
+          "price": 79.90
+        }
+      ]
+    }
+  ]
+}
