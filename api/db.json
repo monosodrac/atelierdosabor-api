@@ -46,16 +46,23 @@
       "products": [
         {
           "id": 1,
-          "image": "https://atelierdosabor-api.vercel.app/menu/appetizer/entrada.jpg",
+          "image": "https://atelierdosabor-api.vercel.app/menu/appetizer/salada.png",
           "title": "Salada",
           "description": "Entrada leve preparada com ingredientes frescos, ideal para abrir o apetite.",
           "price": 24.90
         },
         {
           "id": 2,
-          "image": "https://atelierdosabor-api.vercel.app/menu/appetizer/entrada.jpg",
+          "image": "https://atelierdosabor-api.vercel.app/menu/appetizer/tabule.png",
           "title": "Tabule",
           "description": "Porção saborosa com temperos equilibrados, perfeita para compartilhar.",
+          "price": 29.90
+        },
+        {
+          "id": 2,
+          "image": "https://atelierdosabor-api.vercel.app/menu/appetizer/mix-frios.jpg",
+          "title": "Mix de Frios",
+          "description": "Seleção especial de queijos, embutidos e pães frescos, perfeita para compartilhar.",
           "price": 29.90
         }
       ]
@@ -66,17 +73,17 @@
       "products": [
         {
           "id": 1,
-          "image": "https://atelierdosabor-api.vercel.app/menu/main_course/pizza.jpg",
+          "image": "https://atelierdosabor-api.vercel.app/menu/main_course/pizza.png",
           "title": "Pizza",
           "description": "Pizza artesanal com massa crocante, molho especial e ingredientes selecionados.",
           "price": 54.90
         },
         {
           "id": 2,
-          "image": "https://atelierdosabor-api.vercel.app/menu/main_course/salmao.jpg",
-          "title": "Prato 2",
-          "description": "Salmão grelhado no ponto ideal, acompanhado de guarnições da casa.",
-          "price": 69.90
+          "image": "https://atelierdosabor-api.vercel.app/menu/main_course/hamb-veg.png",
+          "title": "Hambúrguer Vegano",
+          "description": "Feito com proteína vegetal, legumes frescos, molho caseiro e pão integral.",
+          "price": 49.90
         }
       ]
     },
@@ -86,17 +93,17 @@
       "products": [
         {
           "id": 1,
-          "image": "https://atelierdosabor-api.vercel.app/menu/dessert/bolo.jpg",
-          "title": "Bolo de chocolate",
-          "description": "Bolo macio de chocolate com cobertura cremosa e sabor intenso.",
-          "price": 18.90
+          "image": "https://atelierdosabor-api.vercel.app/menu/dessert/torta-frverm.png",
+          "title": "Torta de Frutas Vermelhas",
+          "description": "Uma combinação irresistível de frutas vermelhas frescas com uma base crocante, servida com um toque cremoso de leite de coco.",
+          "price": 19.90
         },
         {
           "id": 2,
-          "image": "https://atelierdosabor-api.vercel.app/menu/dessert/cupcake.jpg",
-          "title": "Cupcake",
-          "description": "Cupcake artesanal com massa leve e recheio suave.",
-          "price": 14.90
+          "image": "https://atelierdosabor-api.vercel.app/menu/dessert/mousse-caceamen.png",
+          "title": "Mousse de Cacau e Amêndoas",
+          "description": "Deliciosa mousse cremosa de cacau, com um leve sabor de amêndoas, perfeita para quem busca um doce leve e reconfortante.",
+          "price": 20.90
         }
       ]
     },
