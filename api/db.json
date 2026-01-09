@@ -1,24 +1,4 @@
 {
-  "carousel": [
-    {
-      "id": 1,
-      "banner": "https://atelierdosabor-api.vercel.app/carousel/slide1.jpg"
-    },
-    {
-      "id": 2,
-      "banner": "https://atelierdosabor-api.vercel.app/carousel/slide2.jpg"
-    },
-    {
-      "id": 3,
-      "banner": "https://atelierdosabor-api.vercel.app/carousel/slide3.jpg"
-    }
-  ],
-  "restaurant": [
-    {
-      "id": 1,
-      "banner": "https://atelierdosabor-api.vercel.app/carousel/slide1.jpg"
-    }
-  ],
   "services": [
     {
       "id": 1,
@@ -59,7 +39,7 @@
           "price": 29.90
         },
         {
-          "id": 2,
+          "id": 3,
           "image": "https://atelierdosabor-api.vercel.app/menu/appetizer/mix-frios.jpg",
           "title": "Mix de Frios",
           "description": "Seleção especial de queijos, embutidos e pães frescos, perfeita para compartilhar.",
